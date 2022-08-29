@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TasKagitMakas {
     public static void main(String args []){
         /*
-         Öncelikle kullanıcıdan seçim alabilmek için Scanner sınıfını aktarıyoruz.
+         Öncelikle kullanıcıdan seçim alabilmek için Scanner sınıfını aktarıyoruz...
           Ardından main fonksiyonumuzda kullanıcının ve
            bilgisayarın puanlarını tanımlıyoruz.
            While döngümüzün içerisinde kullanıcıdan aldığımız seçimi
